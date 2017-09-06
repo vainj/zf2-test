@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Local Configuration Override
  *
@@ -12,4 +13,8 @@
  */
 
 return array(
-);
+     'db' => array(
+         'username' => 'root',
+         'password' => 'root',
+     ),
+ );
