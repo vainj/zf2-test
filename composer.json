@@ -9,6 +9,10 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "~2.4.11"
+        "zendframework/zendframework": "~2.4.11",
+        "twig/twig": "^1.34"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
     }
 }
